@@ -79,6 +79,7 @@ This is the **first version** of VAHAKA, and it will continue to evolve. Future 
 **Contributors:**
 
 -   [Arun Mane](https://github.com/arunm2110)
+-   [Omkar Mali](https://github.com/0mk4rm4li)
 -   [Smit Verma](https://github.com/smitverma)
 
 We welcome contributions from the community. Please feel free to submit pull requests, report issues, or suggest new features, enhancements and tools.
